@@ -1,0 +1,24 @@
+
+[
+    {
+      "Name": "Potato",
+      "Details": "Potatoes, a versatile pantry staple, find their way into mashed potatoes, soups, and snacks. A reliable ingredient for various dishes, potatoes offer comfort and convenience. Whether roasted, mashed, or fried, potatoes hold cultural significance globally, featuring prominently in diverse cuisines around the world.",
+      "Brief":"Potatoes, a versatile pantry staple, find their way into mashed potatoes, soups, and snacks.",
+      "Price": "₹30/kg",
+      "img1": "../assets/FreshVegetables/Potato.png"
+    },
+    {
+        "Name":"Cabbage",
+        "Details":"Fresh cabbage, whether raw or cooked, takes on a versatile role in the kitchen. Contributing to soups, stews, and various dishes, cabbage provides a hearty and nutritious element. Recognized for its crisp texture and mild flavor, cabbage is a key ingredient in coleslaw, a popular side dish that complements a variety of meals.",
+        "Brief":"Fresh cabbage, whether raw or cooked, takes on a versatile role in the kitchen.",
+        "Price":"₹50/kg",
+        "img1":"../assets/FreshVegetables/Cabbage.png"        
+    },
+    {
+        "Name":"Dry Coconut",
+        "Details":"Through dehydration, coconut meat transforms into a concentrated form. Used in baking, cooking, or enjoyed as a snack, dehydrated coconut adds a delightful touch. The powdered version of dehydrated coconut becomes a secret ingredient in beauty routines, offering a natural exfoliant for radiant skin",
+        "Brief":"Through dehydration, coconut meat transforms into a concentrated form.",
+        "Price":"₹40/kg",
+        "img1":"../assets/FreshVegetables/Dry Coconut.png"        
+    }   
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Dehydrated Bitter Gourd",
+    "Details": "Bitter gourd, stripped of its water, is a versatile culinary ingredient. When rehydrated, its bitterness adds depth to various dishes. Recognized for its potential health benefits, dehydrated bitter gourd is a nutritional powerhouse, often used in herbal remedies for its unique properties.",
+    "Brief":"Bitter gourd, stripped of its water, is a versatile culinary ingredient.",
+    "Price": "₹30 per kg",
+    "img1": "../assets/DehydratedFlakesPowder/DehydratedBitterGourd.jpg"
+  },
+  {
+    "Name": "Dehydrated Garlic",
+    "Details": "Bitter gourd, stripped of its water, is a versatile culinary ingredient. Embraced in kitchens, it's convenient and flavorsome. The dehydrated garlic's intense aroma and long shelf life make it an essential addition to spice racks, enhancing dishes with ease.",
+    "Brief":"Bitter gourd, stripped of its water, is a versatile culinary ingredient.",
+    "Price": "₹25 per kg",
+    "img1": "../assets/DehydratedFlakesPowder/DehydratedGarlic.jpg"
+  }
+]

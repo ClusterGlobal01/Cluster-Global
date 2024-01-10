@@ -1,0 +1,18 @@
+
+[
+    {
+      "Name": "Panipuri",
+      "Details": "Hailing from India's vibrant streets, Panipuri is a cherished delight. Hollow puris filled with spiced tamarind water, chutneys, and chickpeas offer a burst of flavors. Beyond its street food allure, Panipuri becomes a festive centerpiece, embodying communal joy during celebrations.",
+      "Brief":"Hailing from India's vibrant streets, Panipuri is a cherished delight.",
+      "Price": "₹70/kg",
+      "img1": "../assets/KitchenSpicesPuries/panipuri.jpg"
+    },
+    {
+      "Name": "Turmeric",
+      "Details": "Dehydrated and ground to a vibrant powder, turmeric is a celebrated spice. Used in cooking and known for anti-inflammatory properties, it imparts distinctive taste and color. With its vibrant hue, dehydrated turmeric becomes a natural dye, infusing textiles and dishes with a golden touch.",
+      "Brief": "Dehydrated and ground to a vibrant powder, turmeric is a celebrated spice.",
+      "Price": "₹40/kg",
+      "img1": "../assets/KitchenSpicesPuries/turmeric.jpg"
+    }
+      
+]

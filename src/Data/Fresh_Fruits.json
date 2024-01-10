@@ -1,0 +1,18 @@
+
+[
+    {
+        "Name":"Papaya",
+        "Details":"Fresh papaya, with its delightful sweetness and tropical hints, is a wholesome snack. Rich in vitamins, it offers a health-conscious treat and brings a burst of flavor to cereals and desserts. Its vibrant orange hue and juicy texture make it a refreshing addition to fruit salads, providing a tropical twist to every bite",
+        "Brief":"Fresh papaya, with its delightful sweetness and tropical hints, is a wholesome snack.",
+        "Price":"₹70/kg",
+        "img1":"../assets/FreshFruits/Papaya.png"        
+    },
+    {
+        "Name":"Strawberry",
+        "Details":"Fresh strawberries, are a delightful addition to cereals or enjoyed as a snack. Beyond culinary appeal, strawberries can be incorporated into DIY potpourri for a fruity fragrance. Their iconic heart shape and vibrant red color make them a symbol of summer, enjoyed in various desserts and refreshing beverages.",
+        "Brief":"Fresh strawberries, are a delightful addition to cereals or enjoyed as a snack.",
+        "Price":"₹40/kg",
+        "img1":"../assets/FreshFruits/Strawberry.png"        
+    }
+      
+]
