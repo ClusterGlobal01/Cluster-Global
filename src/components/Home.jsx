@@ -15,7 +15,7 @@ const Home = () => {
           <Button
             title='Order Now'
             className
-            onClick={() => openLinkInNewTab('https://wa.me/message/SISUP46GKRC6H1')}
+            onClick={() => openLinkInNewTab('https://wa.me/message/BV54IILSKBQDB1')}
           />
         </div>
       </div>

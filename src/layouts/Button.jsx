@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Button = (props) => {
-  const fixedPhoneNumber = '+9925149739';
+  const fixedPhoneNumber = '+9328846954';
   const whatsappLink = `https://wa.me/${fixedPhoneNumber}`;
 
   const handleWhatsAppClick = () => {

@@ -71,14 +71,6 @@ const Footer = () => {
               >
                 +91 95743 62154
               </ScrollLink>
-              <ScrollLink
-                className='hover:text-brightColor transition-all cursor-pointer'
-                to='contact'
-                smooth={true}
-                duration={500}
-              >
-                Social media
-              </ScrollLink>
             </nav>
             <div className='flex gap-4 pt-2 pt-4'>
               <a

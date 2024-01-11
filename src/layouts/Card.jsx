@@ -9,7 +9,7 @@ const Card = (props) => {
 
   const handleInquireClick = () => {
     // Open the specified link in a new tab
-    window.open("https://wa.me/message/SISUP46GKRC6H1", "_blank");
+    window.open("https://wa.me/message/BV54IILSKBQDB1", "_blank");
   };
 
   return (
