@@ -69,7 +69,7 @@ const Footer = () => {
                 smooth={true}
                 duration={500}
               >
-                +91 95743 62154
+                +91 93288 46954
               </ScrollLink>
             </nav>
             <div className='flex gap-4 pt-2 pt-4'>
