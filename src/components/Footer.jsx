@@ -91,7 +91,7 @@ const Footer = () => {
               </a>
               <a
                 className='hover:text-brightColor transition-all cursor-pointer'
-                href='https://wa.me/message/SISUP46GKRC6H1'
+                href='https://wa.me/message/BV54IILSKBQDB1'
                 target='_blank'
                 rel='noopener noreferrer'
               >
